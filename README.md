@@ -11,7 +11,7 @@ A machine learning powered customer churn prediction dashboard built using Pytho
 
 ---
 
-## Problem Statement
+## 📌 Problem Statement
 
 Customer churn is one of the biggest challenges for subscription-based businesses.
 
@@ -25,7 +25,7 @@ RetentionIQ helps companies:
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - Pandas
@@ -37,7 +37,7 @@ RetentionIQ helps companies:
 
 ---
 
-## Features
+## 📊 Features
 
 ### Dashboard
 - Customer KPIs
@@ -67,7 +67,7 @@ RetentionIQ helps companies:
 
 ---
 
-## Machine Learning Model
+## 📈 Machine Learning Model
 
 Model Used:
 
@@ -85,7 +85,7 @@ Performance:
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 Telco Customer Churn Dataset
 
@@ -100,7 +100,7 @@ Contains:
 
 ---
 
-## Project Structure
+## 🏗 Project Structure
 
 ```text
 CRIP/
@@ -148,16 +148,6 @@ Run app
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🎯 Future Improvements
-
-- XGBoost Integration
-- SHAP Explainability
-- Customer Segmentation
-- Automated Retention Campaigns
-- Cloud Deployment
 
 ---
 
