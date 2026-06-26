@@ -492,7 +492,3 @@ elif page == "Model Performance":
         fig,
         use_container_width=True
     )
-
-    st.info(
-        "Replace with actual metrics after training Logistic Regression and XGBoost."
-    )
